@@ -18,3 +18,19 @@ Program ini menggunakan sistem menu interaktif dengan fitur pembersihan layar (C
 4. Compile kode dengan perintah:
    ```bash
    g++ kalkulator_luas.cpp -o kalkulator_luas
+5.Jalankan program hasil kompilasi:
+
+Di Windows: 
+`.\kalkulator_luas`
+
+Di Linux/Mac: 
+`./kalkulator_luas`
+
+👨‍💻 Developer / Credits
+Nama: Aftah Hafidz Mazaya (Boz M)
+
+Kelas: 10 MIA 2
+
+Instansi: MA IT Baitul Quran Al Jahra Magetan
+
+Dibuat dengan 💡 dan secangkir kopi untuk keperluan belajar dan konten edukasi.
